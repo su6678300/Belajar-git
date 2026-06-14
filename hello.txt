@@ -1,0 +1,1 @@
+Halo dunia, ini repo pertama gue di Termux
